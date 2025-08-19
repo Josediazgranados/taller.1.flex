@@ -51,4 +51,4 @@
 ¿Aceptará la calculadora una línea que contenga solo un comentario? ¿Por qué?
 No, porque en el scanner (Flex) no hay ninguna regla para reconocer comentarios.
 Si el usuario escribe algo como // comentario o # comentario, el scanner intentará leerlo como tokens válidos y,
-al no encontrar coincidencia (excepto por el patrón .), lo enviará como "Token no reconocido".
+al no encontrar coincidencia (excepto por el.), lo enviará como "Token no reconocido".
