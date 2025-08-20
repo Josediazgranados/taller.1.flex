@@ -1,0 +1,4 @@
+En el codigo de flex implementar el algoritmo fue mas facil que en C ya que en flex las reglas de produccion
+abarcan a mas pasibilidades que en C, a pesar de eso la velocidad en C es mas rapida, debido a que se procesa 
+el caracter apenas se pase por el y no procesa el string completo antes de analizar los caracteres como lo 
+hace flex, por eso la velocidad en C es mucho mayor.
